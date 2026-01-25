@@ -2,7 +2,7 @@
 This repository describes a high-speed method for ultrasound micro-vessel imaging. It uses randomized singular value decomposition (rSVD) and spatial downsampling to filter out tissue clutter in real-time. Tested on a Verasonics system, it achieves a frame rate of 22 Hz, significantly reducing computational time without losing image quality.
 Team Members Name and Roll Number
    K. ABHISHEK – CB.SC.U4AIE24325P.     MOKSHAGNA ARYAN –CB.SC.U4AIE24341
-   RISHIKESH – CB.SC.U4AIE243652.
+   RISHIKESH – CB.SC.U4AIE24365
 Base/Reference PaperTitle: "Real time SVD-based clutter filtering using randomized singular value decomposition and spatial downsampling for micro-vessel imaging on a Verasonics ultrasound system".
 Authors: U-Wai Lok, Pengfei Song, et al..
 Publication: Ultrasonics, Volume 107, 2020.3.
